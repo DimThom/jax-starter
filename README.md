@@ -49,7 +49,7 @@ JaxStarter4 is an application that allows you to manage teacher information. Thi
 
 ## License
 
-This application is distributed under the MIT License. Please refer to the [LICENSE](LICENSE) for more information.
+This application is distributed under the MIT License provided by GitHub.
 
 ## Contact
 
